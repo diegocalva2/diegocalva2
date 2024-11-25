@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hola soy Diego Calva👋
+### ingenerio administrador de sistemas 
+### de la Facultad de Ingeniería mecánica y eléctrica
+
 
 <!--
 **diegocalva2/diegocalva2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
