@@ -2,6 +2,7 @@
 ### Bienvenido a mi perfil
 
 soy ingeniero administrador de sistemas
+/br
 estudiante de la Facultad de Ingeniería mecánica y eléctrica
 
 - 🔭 Actualmente trabajo con tecnologia: C#, Mysql mangement studio
