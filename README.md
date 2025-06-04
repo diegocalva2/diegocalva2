@@ -2,10 +2,21 @@
 ### Bienvenido a mi perfil
 
 soy ingeniero administrador de sistemas  
-estudiante de la Facultad de Ingeniería mecánica y eléctrica
+Graduado de la Facultad de Ingeniería mecánica y eléctrica de la Universidad Autonoma de Nuevo León 
 
-- 🔭 Actualmente trabajo con tecnologia: C#, Mysql mangement studio
-- 🌱En este momento me encuentro aprendiendo la tecnologia Blazor
+- 🔭 Actualmente he trabajado con las siguientes tecnologias:
+        - C#
+        - .NET 4 , .NET 8
+        - SQL
+        - Blazor
+        - Radzen
+        - TortoiseSVN
+        - GIT
+        - Github
+
+- 📓📚 Actualmente estoy aprendiendo javascript y REACT
+  
+        
 
 contacto: diegocalva2002@gmail.com
 
