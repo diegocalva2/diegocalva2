@@ -2,7 +2,7 @@
 ### Bienvenido a mi perfil
 
 soy ingeniero administrador de sistemas  
-Graduado de la Facultad de Ingeniería mecánica y eléctrica de la Universidad Autonoma de Nuevo León 
+Graduado de la Facultad de Ingeniería Mecánica y Eléctrica de la Universidad Autonoma de Nuevo León 
 
 - 🔭 Actualmente he trabajado con las siguientes tecnologias:
    - C#
