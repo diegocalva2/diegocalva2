@@ -5,14 +5,14 @@ soy ingeniero administrador de sistemas
 Graduado de la Facultad de Ingeniería mecánica y eléctrica de la Universidad Autonoma de Nuevo León 
 
 - 🔭 Actualmente he trabajado con las siguientes tecnologias:
-        - C#
-        - .NET 4 , .NET 8
-        - SQL
-        - Blazor
-        - Radzen
-        - TortoiseSVN
-        - GIT
-        - Github
+   - C#
+   - .NET 4 , .NET 8
+   - SQL
+   - Blazor
+   - Radzen
+   - TortoiseSVN
+   - GIT
+   - Github
 
 - 📓📚 Actualmente estoy aprendiendo javascript y REACT
   
