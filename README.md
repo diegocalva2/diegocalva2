@@ -1,3 +1,5 @@
+![Encabezado](./Cerro_de_la_Silla2.jpg)
+
 ## Hola soy Diego Calva Valdés👋
 ### Bienvenido a mi perfil
 
