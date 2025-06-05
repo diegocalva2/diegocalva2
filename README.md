@@ -23,5 +23,9 @@ Me gusta desarrollar y participar en proyectos interesantes, que me reten y me h
   
         
 
-contacto: diegocalva2002@gmail.com
+### 📬 Contáctame
+
+- 📧 Email: diegocalva2002@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/diegocalva](https://www.linkedin.com/in/diego-calva-valdés-939a5b1a9)
+
 
