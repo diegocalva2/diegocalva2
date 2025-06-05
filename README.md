@@ -12,7 +12,7 @@
 Me gusta desarrollar y participar en proyectos interesantes, que me reten y me hagan crecer profesionalmente. 
 
 - 🔭 Actualmente he trabajado con las siguientes tecnologias:
-   - C#
+   - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
    - .NET 4 , .NET 8
    - SQL
    - Blazor
