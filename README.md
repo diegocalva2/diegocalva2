@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./GKLlqIkXoAAj3sN2.jpeg alt="Encabezado" width="100%" />
+</p>
 
 
 ## Hola soy Diego Calva Valdés👋
