@@ -1,4 +1,7 @@
-![Encabezado](./Cerro_de_la_Silla2.jpg)
+<p align="center">
+  <img src="./Cerro_de_la_Silla2.jpg" alt="Encabezado" width="100%" />
+</p>
+
 
 ## Hola soy Diego Calva Valdés👋
 ### Bienvenido a mi perfil
